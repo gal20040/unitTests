@@ -2,6 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudio,dotnetcore,rider,jetbrains+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudio,dotnetcore,rider,jetbrains+all
 
+.sonarqube/
+
 ### DotnetCore ###
 # .NET Core build folders
 bin/
