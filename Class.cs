@@ -1,4 +1,4 @@
-﻿namespace SomeClassLibrary
+﻿namespace unitTests
 {
     public class Class
     {
